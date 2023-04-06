@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "python": "^0.0.4",
+    "vim": "^0.1.0",
+    "virtualenv": "^0.3.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "ethers": "^5.0.0"
+  }
+}
